@@ -4,8 +4,6 @@ import os
 import seaborn as sns
 import matplotlib as plt
 
-os.chdir(r'C:\Users\laure\summer2025\aae718\project3') 
-
 #data
 all_data = []
 city_folders = ['chicago', 'manitowoc', 'milwaukee', 'ludington']
