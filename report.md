@@ -7,7 +7,7 @@
 
   ## Daily Averages
 ![Daily Average Wind Speeds in mph](./images/dailyavgwind.png) 
-To put the 
+To put the average wind speeds throughout time into perspective, I decided to create a graph of the four cities throughout the sample period, to see if any initial outliers existed. All of the cities follow a similar pattern as the years progress with a peak in the first few months of the year, and then another as the fall season arrives. 
 
 ## Windspeed by City 
 ![boxplot](./images/wind_boxplot.png) 
