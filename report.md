@@ -10,8 +10,8 @@
 To put the average wind speeds throughout time into perspective, I decided to create a graph of the four cities throughout the sample period, to see if any initial outliers existed. All of the cities follow a similar pattern as the years progress with a peak in the first few months of the year, and then another as the fall season arrives. There does not appear to be an outlier in terms of a city with substantially greater average wind speeds, although both Milwaukee and Chicago have peaks throughout the data that are readily visible. 
 
 ## Cities with the Windiest Days 
-![top 10%](./images/extreme_wind_days.png) 
-The graph above details the cities ranked in order of their contributions to the windiest days recorded across the cities and years. Ludington Michigan leads this metric, with over 30,000 of the windiest days. Chicago trails in with the second most days, with roughly 15,000 of the windiest days. 
+![top 10%](./images/top_wind_cities_ranked.png) 
+The graph above details the cities ranked in order of their contributions to the windiest days recorded across the cities and years. Ludington Michigan leads this metric, with over 22,000 of the windiest days. Chicago trails in with the second most days, with roughly 20,000 of the windiest days. 
 
 ## Cities with the Greatest Frequency of Wind Gusts
 ![gusts](./images/gust_frequency.png) 
