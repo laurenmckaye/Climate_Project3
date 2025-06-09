@@ -15,8 +15,13 @@ The graph above details the cities ranked in order of their contributions to the
 
 ## Cities with the Greatest Frequency of Wind Gusts
 ![gusts](./images/gust_frequency.png) 
+The next metric used to determine wind is the number and speed of wind gusts. A wind gust is a sudden increase in the wind speed, which is usually followed by a lull. These gusts usually last just a few seconds. Above is an illustration of the cities with the greatest frequency of wind gusts, with Ludington Michigan again leading the metric, with over half of all the wind gusts recorded. Milwaukee follows Ludington with Chicago ranking third for wind gust frequency. 
 
 ## Cities with the Intense Gusts
 ![extreme gust](./images/extreme_gusts.png) 
+Lastly, I measured the cities with the most extreme wind gusts. In the dataset from the four cities over the 10 year period, the top percent of wind gusts measured in to roughly greater or equal to 41 miles per hour. For reference, FEMA dictates damaging winds are those exceeding 58 miles per hour. Chicago tops this metric with roughly 650 intense gusts measured throughout the period, with Milwaukee following with slightly more than 500. 
 
 ## Conclusion 
+While the epithet "The Windy City" might not entierly refer to weather patterns adn the breeze created by Lake Michigan, this analysis reveals that its claim to windiness is not entirely unfounded. Among the four cities across the shores of Lake Michigan; Chicago, Milwaukee, Ludington, and Manitowoc, Chicago ranks first in extreme wind gusts. However, Ludington, Michigan, emerged as the windiest location overall leading metrics for windiest days and greatest frequency of gusts. 
+
+Perhaps it is the strong gusts that hit the pedestrians traversing the streets -- along with the politics -- that plant the notoriety of Chicago wind! 
